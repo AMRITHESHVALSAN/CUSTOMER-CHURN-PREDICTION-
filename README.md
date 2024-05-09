@@ -53,7 +53,7 @@ This project implements machine learning models to predict customer churn for su
 
 1. Clone this repository.
 2. Install required dependencies (`pip install -r requirements.txt`).
-3. Download your customer churn dataset (replace the placeholder).
+3. Download your customer churn dataset.
 4. Update the data loading and preprocessing logic in the corresponding scripts.
 5. Run the training and evaluation scripts to generate reports and visualizations.
 
